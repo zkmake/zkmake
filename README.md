@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Zubin's Profile Banner](https://pbs.twimg.com/profile_banners/133837966/1539367267/1500x500)
 
 <!--
