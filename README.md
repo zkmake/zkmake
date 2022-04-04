@@ -1,5 +1,3 @@
-![Zubin's Profile Banner](https://pbs.twimg.com/profile_banners/133837966/1539367267/1500x500)
-
 <!--
 **zubinkhavarian/zubinkhavarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
