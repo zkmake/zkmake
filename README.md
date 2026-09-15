@@ -36,17 +36,17 @@ It's a timed math drill made for a phone in portrait. You can play it in a deskt
 
 &nbsp;
 
-<a href="https://learn-eth.pages.dev/"><img src="assets/learn-eth.png" width="220" align="left" alt="learn-eth Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
-<img src="assets/learn-eth-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[learn-eth](https://learn-eth.pages.dev/)**  
+<a href="https://flow-it.pages.dev/"><img src="assets/flow-it.png" width="220" align="left" alt="flow-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
+<img src="assets/flow-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[flow-it](https://flow-it.pages.dev/)**  
 You place timers, QR codes, logic gates, displays, and music nodes on a canvas and draw wires between them. Values update on the edges as you edit. An extensive node library helps you find nodes and learn about each, and a starter template library comes with it. Inspired by Austin Griffith’s [eth.build](https://eth.build/), which I still think is amazing. React Flow.  
-[Open](https://learn-eth.pages.dev/)
+[Open](https://flow-it.pages.dev/)
 
 <br clear="all" />
 
 &nbsp;
 
-<a href="https://roll-it.pages.dev/"><img src="assets/roll-it.png" width="220" align="left" alt="Roll It: Sky Steps, purple ball on floating tile islands with a wooden arch, a gem, timer, lives, and minimap." /></a>
-<img src="assets/roll-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Roll It](https://roll-it.pages.dev/)**  
+<a href="https://roll-it.pages.dev/"><img src="assets/roll-it.png" width="220" align="left" alt="roll-it: Sky Steps, purple ball on floating tile islands with a wooden arch, a gem, timer, lives, and minimap." /></a>
+<img src="assets/roll-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[roll-it](https://roll-it.pages.dev/)**  
 WASD rolls a ball over floating tile islands while you collect gems. Rapier runs the physics. A sketch shader inks the world. When the ball rolls behind a wall or a tree, that scenery turns see-through. React Three Fiber + Three.js.  
 [Play](https://roll-it.pages.dev/)
 
