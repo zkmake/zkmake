@@ -45,7 +45,7 @@ You place timers, QR codes, logic gates, displays, and music nodes on a canvas a
 
 &nbsp;
 
-<a href="https://roll-it.pages.dev/"><img src="assets/roll-it.png" width="220" align="left" alt="roll-it: Sky Steps, purple ball on floating tile islands with a wooden arch, a gem, timer, lives, and minimap." /></a>
+<a href="https://roll-it.pages.dev/"><img src="assets/roll-it.png" width="220" align="left" alt="roll-it: Sky Steps, soccer ball on floating tile islands with a wooden arch, a gem, timer, lives, and minimap." /></a>
 <img src="assets/roll-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[roll-it](https://roll-it.pages.dev/)**  
 WASD rolls a ball over floating tile islands while you collect gems. Rapier runs the physics. A sketch shader inks the world. When the ball rolls behind a wall or a tree, that scenery turns see-through. React Three Fiber + Three.js.  
 [Play](https://roll-it.pages.dev/)
