@@ -74,21 +74,3 @@ WASD rolls a ball over floating tile islands while you collect gems. Rapier runs
 [Play](https://roll-it.pages.dev/)
 
 <br clear="all" />
-
-&nbsp;
-
-<a href="https://type-it.pages.dev/"><img src="assets/type-it.png" width="220" align="left" alt="type-it start screen: Type It! title, Start, and a home-row keyboard card that says park your fingers on the home row." /></a>
-<img src="assets/type-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[type-it](https://type-it.pages.dev/)**  
-It's a kids typing tutor for a tablet or desktop in landscape. You type a short paragraph while an on-screen keyboard lights the next key and the home-row finger.  
-[Play](https://type-it.pages.dev/)
-
-<br clear="all" />
-
-&nbsp;
-
-<a href="https://trace-it.pages.dev/"><img src="assets/trace-it.png" width="220" align="left" alt="trace-it start screen: Trace It! title, Start, uppercase / lowercase / mixed chips, and easy / medium / hard." /></a>
-<img src="assets/trace-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[trace-it](https://trace-it.pages.dev/)**  
-It's a letter-tracing drill. You pick uppercase, lowercase, or mixed English letters and trace them. It is a PWA.  
-[Play](https://trace-it.pages.dev/)
-
-<br clear="all" />
