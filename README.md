@@ -14,9 +14,32 @@ I build for the web and write about what I learn along the way. React, TypeScrip
 
 ---
 
+## Writing
+
+A two-part series on the audio layer most web games skip.
+
+**[Soundscapes for Web Games: The Layer Beneath Your SFX, Part 1](https://zubin.dev/blog/web-game-soundscapes-1-concepts/)**  
+Web games sound flat because they treat audio as event SFX. A soundscape is the layer that fills the silence.
+
+**[Soundscapes for Web Games: A Pluggable Howler Implementation, Part 2](https://zubin.dev/blog/web-game-soundscapes-2-howler/)**  
+The soundscape engine is one class under a hundred lines. A six-function adapter is the seam.
+
+More on [zubin.dev/blog](https://zubin.dev/blog/).
+
+---
+
 ## Projects
 
 Educational games and tools you can open in a browser. More at [zubin.dev/projects](https://zubin.dev/projects/).
+
+<a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter: FPS, CPU, and GPU graphs in a docked HUD beside a pastel instanced cube on black." /></a>
+**[three-meter](https://three-meter.pages.dev/)**  
+A zero-dependency three.js HUD for FPS, CPU, GPU, draw calls, and scene counts. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber.  
+[Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
+
+<br clear="all" />
+
+&nbsp;
 
 <a href="https://typos-voyage.edclub.io/"><img src="assets/typos-voyage.jpg" width="220" align="left" alt="Typo's Voyage: Typo rows a wooden boat through tropical water toward mines labeled with words, score and lives in the HUD." /></a>
 <img src="assets/typos-voyage-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Typo's Voyage](https://typos-voyage.edclub.io/)**  
@@ -51,17 +74,3 @@ WASD rolls a ball over floating tile islands while you collect gems. Rapier runs
 [Play](https://roll-it.pages.dev/)
 
 <br clear="all" />
-
----
-
-## Writing
-
-A two-part series on the audio layer most web games skip.
-
-**[Soundscapes for Web Games: The Layer Beneath Your SFX, Part 1](https://zubin.dev/blog/web-game-soundscapes-1-concepts/)**  
-Web games sound flat because they treat audio as event SFX. A soundscape is the layer that fills the silence.
-
-**[Soundscapes for Web Games: A Pluggable Howler Implementation, Part 2](https://zubin.dev/blog/web-game-soundscapes-2-howler/)**  
-The soundscape engine is one class under a hundred lines. A six-function adapter is the seam.
-
-More on [zubin.dev/blog](https://zubin.dev/blog/).
