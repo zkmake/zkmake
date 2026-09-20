@@ -59,6 +59,15 @@ It's a timed math drill made for a phone in portrait. You can play it in a deskt
 
 &nbsp;
 
+<a href="https://treble-trouble.pages.dev/"><img src="assets/treble-trouble.png" width="220" align="left" alt="Treble Trouble in-game: a quarter note on a treble staff in a sketched card, time, score, streak, and lives across the top, six blue answer circles C D F G A B." /></a>
+<img src="assets/treble-trouble-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Treble Trouble](https://treble-trouble.pages.dev/)**  
+Sight-reading flash quiz and sibling of Mathness!. Pick treble, bass, or mixed and name the note, one at a time or in four-note cards. One minute, three lives. Home-row keys answer on desktop. PWA.  
+[Play](https://treble-trouble.pages.dev/)
+
+<br clear="all" />
+
+&nbsp;
+
 <a href="https://connect-it-7rt.pages.dev/"><img src="assets/connect-it.png" width="220" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
 <img src="assets/connect-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[connect-it](https://connect-it-7rt.pages.dev/)**  
 You place timers, QR codes, logic gates, displays, and music nodes on a canvas and draw wires between them. Values update on the edges as you edit. An extensive node library helps you find nodes and learn about each, and a starter template library comes with it. Inspired by Austin Griffith’s [eth.build](https://eth.build/), which I still think is amazing. React Flow.  
