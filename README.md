@@ -32,15 +32,6 @@ More on [zubin.dev/blog](https://zubin.dev/blog/).
 
 Educational games and tools you can open in a browser. More at [zubin.dev/projects](https://zubin.dev/projects/).
 
-<a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter demo: a dark HUD with FPS, CPU, and GPU graphs and per-stat toggles beside a pastel instanced cube on a light page, with the install command in the corner." /></a>
-<img src="assets/three-meter-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-meter](https://three-meter.pages.dev/)**  
-A zero-dependency three.js HUD for FPS, CPU, GPU, draw calls, and scene counts. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber.  
-[Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
-
-<br clear="all" />
-
-&nbsp;
-
 <a href="https://typos-voyage.edclub.io/"><img src="assets/typos-voyage.jpg" width="220" align="left" alt="Typo's Voyage: Typo rows a wooden boat through tropical water toward mines labeled with words, score and lives in the HUD." /></a>
 <img src="assets/typos-voyage-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Typo's Voyage](https://typos-voyage.edclub.io/)**  
 Typo rows a boat through tropical water and types words to clear mines and other obstacles on a voyage to get faster. I led the 3D team at [edclub](https://www.edclub.com/) that built it. Three.js.  
@@ -50,19 +41,10 @@ Typo rows a boat through tropical water and types words to clear mines and other
 
 &nbsp;
 
-<a href="https://mathness.pages.dev/"><img src="assets/mathness.png" width="220" align="left" alt="Mathness! in-game: 3 × 4 in a sketched question box, HUD across the top, four blue answer circles labeled S, F, J, and L." /></a>
-<img src="assets/mathness-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Mathness!](https://mathness.pages.dev/)**  
-It's a timed math drill made for a phone in portrait. You can play it in a desktop browser too. It is a PWA. Add it as a bookmark on your phone.  
-[Play](https://mathness.pages.dev/)
-
-<br clear="all" />
-
-&nbsp;
-
-<a href="https://treble-trouble.pages.dev/"><img src="assets/treble-trouble.png" width="220" align="left" alt="Treble Trouble in-game: a quarter note on a treble staff in a sketched card, time, score, streak, and lives across the top, six blue answer circles C D F G A B." /></a>
-<img src="assets/treble-trouble-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Treble Trouble](https://treble-trouble.pages.dev/)**  
-Sight-reading flash quiz and sibling of Mathness!. Pick treble, bass, or mixed and name the note, one at a time or in four-note cards. One minute, three lives. Home-row keys answer on desktop. PWA.  
-[Play](https://treble-trouble.pages.dev/)
+<a href="https://keyboard-express.pages.dev/"><img src="assets/keyboard-express.png" width="220" align="left" alt="Keyboard Express! mid-run: a green steam engine pulls five wagons of cargo along a winding track past a stream and trees, the word ring on the sign ahead and ocean on the next, cargo 5/5 in the HUD." /></a>
+<img src="assets/keyboard-express-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Keyboard Express!](https://keyboard-express.pages.dev/)**  
+Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the track ahead of your train. Type each one before the engine reaches it, or a wagon of cargo falls off. Five levels, log piles, sidings, level crossings, and a plain full of scenery. React Three Fiber + Three.js.  
+[Play](https://keyboard-express.pages.dev/)
 
 <br clear="all" />
 
@@ -81,5 +63,32 @@ You place timers, QR codes, logic gates, displays, and music nodes on a canvas a
 <img src="assets/roll-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[roll-it](https://roll-it.pages.dev/)**  
 WASD rolls a ball over floating tile islands while you collect gems. Rapier runs the physics. A sketch shader inks the world. When the ball rolls behind a wall or a tree, that scenery turns see-through. React Three Fiber + Three.js.  
 [Play](https://roll-it.pages.dev/)
+
+<br clear="all" />
+
+&nbsp;
+
+<a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter demo: a dark HUD with FPS, CPU, and GPU graphs and per-stat toggles beside a pastel instanced cube on a light page, with the install command in the corner." /></a>
+<img src="assets/three-meter-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-meter](https://three-meter.pages.dev/)**  
+A zero-dependency three.js HUD for FPS, CPU, GPU, draw calls, and scene counts. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber.  
+[Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
+
+<br clear="all" />
+
+&nbsp;
+
+<a href="https://treble-trouble.pages.dev/"><img src="assets/treble-trouble.png" width="220" align="left" alt="Treble Trouble in-game: a quarter note on a treble staff in a sketched card, time, score, streak, and lives across the top, six blue answer circles C D F G A B." /></a>
+<img src="assets/treble-trouble-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Treble Trouble](https://treble-trouble.pages.dev/)**  
+Sight-reading flash quiz and sibling of Mathness!. Pick treble, bass, or mixed and name the note, one at a time or in four-note cards. One minute, three lives. Home-row keys answer on desktop. PWA.  
+[Play](https://treble-trouble.pages.dev/)
+
+<br clear="all" />
+
+&nbsp;
+
+<a href="https://mathness.pages.dev/"><img src="assets/mathness.png" width="220" align="left" alt="Mathness! in-game: 3 × 4 in a sketched question box, HUD across the top, four blue answer circles labeled S, F, J, and L." /></a>
+<img src="assets/mathness-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Mathness!](https://mathness.pages.dev/)**  
+It's a timed math drill made for a phone in portrait. You can play it in a desktop browser too. It is a PWA. Add it as a bookmark on your phone.  
+[Play](https://mathness.pages.dev/)
 
 <br clear="all" />
