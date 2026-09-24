@@ -74,21 +74,3 @@ A zero-dependency three.js HUD for FPS, CPU, GPU, draw calls, and scene counts. 
 [Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
 
 <br clear="all" />
-
-&nbsp;
-
-<a href="https://treble-trouble.pages.dev/"><img src="assets/treble-trouble.png" width="220" align="left" alt="Treble Trouble in-game: a quarter note on a treble staff in a sketched card, time, score, streak, and lives across the top, six blue answer circles C D F G A B." /></a>
-<img src="assets/treble-trouble-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Treble Trouble](https://treble-trouble.pages.dev/)**  
-Sight-reading flash quiz and sibling of Mathness!. Pick treble, bass, or mixed and name the note, one at a time or in four-note cards. One minute, three lives. Home-row keys answer on desktop. PWA.  
-[Play](https://treble-trouble.pages.dev/)
-
-<br clear="all" />
-
-&nbsp;
-
-<a href="https://mathness.pages.dev/"><img src="assets/mathness.png" width="220" align="left" alt="Mathness! in-game: 3 × 4 in a sketched question box, HUD across the top, four blue answer circles labeled S, F, J, and L." /></a>
-<img src="assets/mathness-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Mathness!](https://mathness.pages.dev/)**  
-It's a timed math drill made for a phone in portrait. You can play it in a desktop browser too. It is a PWA. Add it as a bookmark on your phone.  
-[Play](https://mathness.pages.dev/)
-
-<br clear="all" />
