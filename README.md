@@ -28,6 +28,30 @@ More on [zubin.dev/blog](https://zubin.dev/blog/).
 
 ---
 
+<!-- Apps: hidden until Treble Trouble is live on the App Store. To show: add the App Store URL to the Download link, then delete this comment's opening and closing markers.
+
+## Apps
+
+iPhone and iPad apps for kids. More at [zubin.dev/apps](https://zubin.dev/apps/).
+
+<a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
+**[Treble Trouble](https://zubin.dev/apps/treble-trouble/)**  
+Learn to read music, one small step at a time. Short lessons on the piano keys, treble and bass staff, and the beat, with a real piano sound and no timer or lives. Then famous tunes and timed games. 16 languages, no ads or tracking. iPhone and iPad, iOS 26 or later.  
+[Download on the App Store](APP_STORE_URL) · [More](https://zubin.dev/apps/treble-trouble/)
+
+<br clear="all" />
+
+<p>
+  <img src="assets/apps/treble-trouble/iphone-learn.webp" width="150" alt="Treble Trouble on iPhone: the Lessons tab with the next lesson card and the Piano keys and Treble paths." />
+  <img src="assets/apps/treble-trouble/iphone-treble.webp" width="150" alt="Treble Trouble on iPhone: a treble clef lesson asks What note is this? with a helper staff marking C, G and C." />
+  <img src="assets/apps/treble-trouble/iphone-keys.webp" width="150" alt="Treble Trouble on iPhone: a Sharp keys lesson asks the child to find D sharp on a piano keyboard." />
+  <img src="assets/apps/treble-trouble/iphone-tune.webp" width="150" alt="Treble Trouble on iPhone: Twinkle, Twinkle on the treble staff with the first note lit up and four letter choices." />
+</p>
+
+---
+
+-->
+
 ## Projects
 
 Educational games and tools you can open in a browser. More at [zubin.dev/projects](https://zubin.dev/projects/).
