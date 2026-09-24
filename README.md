@@ -74,10 +74,10 @@ Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the 
 
 &nbsp;
 
-<a href="https://connect-it-7rt.pages.dev/"><img src="assets/connect-it.png" width="220" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
-<img src="assets/connect-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[connect-it](https://connect-it-7rt.pages.dev/)**  
+<a href="https://connect-it-app.pages.dev/"><img src="assets/connect-it.png" width="220" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
+<img src="assets/connect-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[connect-it](https://connect-it-app.pages.dev/)**  
 You place timers, QR codes, logic gates, displays, and music nodes on a canvas and draw wires between them. Values update on the edges as you edit. An extensive node library helps you find nodes and learn about each, and a starter template library comes with it. Inspired by Austin Griffith’s [eth.build](https://eth.build/), which I still think is amazing. React Flow.  
-[Open](https://connect-it-7rt.pages.dev/)
+[Open](https://connect-it-app.pages.dev/)
 
 <br clear="all" />
 
