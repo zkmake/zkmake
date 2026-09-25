@@ -28,11 +28,11 @@ More on [zubin.dev/blog](https://zubin.dev/blog/).
 
 ---
 
-<!-- Apps: hidden until Treble Trouble is live on the App Store. To show: add the App Store URL to the Download link, then delete this comment's opening and closing markers.
+<!-- Apps: hidden until the apps are live on the App Store. To show: replace APP_STORE_URL / MAHBANOU_APP_STORE_URL with the App Store links (drop any app that isn't live yet), then delete this comment's opening and closing markers.
 
 ## Apps
 
-iPhone and iPad apps for kids. More at [zubin.dev/apps](https://zubin.dev/apps/).
+iPhone, iPad and Apple Watch apps. More at [zubin.dev/apps](https://zubin.dev/apps/).
 
 <a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
 **[Treble Trouble](https://zubin.dev/apps/treble-trouble/)**  
@@ -46,6 +46,22 @@ Learn to read music, one small step at a time. Short lessons on the piano keys, 
   <img src="assets/apps/treble-trouble/iphone-treble.webp" width="150" alt="Treble Trouble on iPhone: a treble clef lesson asks What note is this? with a helper staff marking C, G and C." />
   <img src="assets/apps/treble-trouble/iphone-keys.webp" width="150" alt="Treble Trouble on iPhone: a Sharp keys lesson asks the child to find D sharp on a piano keyboard." />
   <img src="assets/apps/treble-trouble/iphone-tune.webp" width="150" alt="Treble Trouble on iPhone: Twinkle, Twinkle on the treble staff with the first note lit up and four letter choices." />
+</p>
+
+&nbsp;
+
+<a href="MAHBANOU_APP_STORE_URL"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
+**[Mahbanou (ماهبانو)](MAHBANOU_APP_STORE_URL)**  
+A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's holidays, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
+[Download on the App Store](MAHBANOU_APP_STORE_URL)
+
+<br clear="all" />
+
+<p>
+  <img src="assets/apps/mahbanou/iphone-today.webp" width="150" alt="Mahbanou on iPhone: the Today tab with 10 Mehr 1405, the Zoroastrian roj and mah, and today's occasions." />
+  <img src="assets/apps/mahbanou/iphone-month.webp" width="150" alt="Mahbanou on iPhone: the Mehr 1405 month grid with Gregorian and lunar dates under each day and holidays in red." />
+  <img src="assets/apps/mahbanou/iphone-gahs.webp" width="150" alt="Mahbanou on iPhone: sunrise, noon and sunset in Tehran with the current gah, Havan, and the day's gah times." />
+  <img src="assets/apps/mahbanou/iphone-widgets.webp" width="150" alt="Mahbanou on iPhone: home and lock screen widgets showing the date, the current gah, a month calendar and upcoming occasions." />
 </p>
 
 ---
