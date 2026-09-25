@@ -40,10 +40,10 @@ Coming soon to the App Store · [More](https://zubin.dev/apps/treble-trouble/)
 <br clear="all" />
 
 <p>
-  <img src="assets/apps/treble-trouble/iphone-learn.webp" width="150" alt="Treble Trouble on iPhone: the Lessons tab with the next lesson card and the Piano keys and Treble paths." />
-  <img src="assets/apps/treble-trouble/iphone-treble.webp" width="150" alt="Treble Trouble on iPhone: a treble clef lesson asks What note is this? with a helper staff marking C, G and C." />
-  <img src="assets/apps/treble-trouble/iphone-keys.webp" width="150" alt="Treble Trouble on iPhone: a Sharp keys lesson asks the child to find D sharp on a piano keyboard." />
-  <img src="assets/apps/treble-trouble/iphone-tune.webp" width="150" alt="Treble Trouble on iPhone: Twinkle, Twinkle on the treble staff with the first note lit up and four letter choices." />
+  <img src="assets/apps/treble-trouble/iphone-lessons.webp" width="150" alt="Treble Trouble on iPhone, &quot;Learn to read music, one small step at a time&quot;: the Lessons tab with the Half notes lesson up next and the Piano keys and Treble paths." />
+  <img src="assets/apps/treble-trouble/iphone-name-the-note.webp" width="150" alt="Treble Trouble on iPhone, &quot;Name the notes on the staff&quot;: an Every treble note lesson asks What note is this? with a helper staff and four letter choices." />
+  <img src="assets/apps/treble-trouble/iphone-find-the-key.webp" width="150" alt="Treble Trouble on iPhone, &quot;Find every note on the piano&quot;: a Sharp keys lesson asks the child to find F sharp on a piano keyboard." />
+  <img src="assets/apps/treble-trouble/iphone-play-a-tune.webp" width="150" alt="Treble Trouble on iPhone, &quot;Play famous tunes, note by note&quot;: Twinkle, Twinkle on the treble staff with one note lit up and four letter choices." />
 </p>
 
 &nbsp;
@@ -56,10 +56,10 @@ Coming soon to the App Store · [More](https://zubin.dev/apps/mahbanou/)
 <br clear="all" />
 
 <p>
-  <img src="assets/apps/mahbanou/iphone-today.webp" width="150" alt="Mahbanou on iPhone: the Today tab with 10 Mehr 1405, the Zoroastrian roj and mah, and today's occasions." />
-  <img src="assets/apps/mahbanou/iphone-month.webp" width="150" alt="Mahbanou on iPhone: the Mehr 1405 month grid with Gregorian and lunar dates under each day and holidays in red." />
-  <img src="assets/apps/mahbanou/iphone-gahs.webp" width="150" alt="Mahbanou on iPhone: sunrise, noon and sunset in Tehran with the current gah, Havan, and the day's gah times." />
-  <img src="assets/apps/mahbanou/iphone-widgets.webp" width="150" alt="Mahbanou on iPhone: home and lock screen widgets showing the date, the current gah, a month calendar and upcoming occasions." />
+  <img src="assets/apps/mahbanou/iphone-today.webp" width="150" alt="Mahbanou on iPhone, &quot;The Persian calendar, accurate to the day&quot;: the Today tab with 10 Mehr 1405, the Zoroastrian roj and mah, and today's occasions." />
+  <img src="assets/apps/mahbanou/iphone-month.webp" width="150" alt="Mahbanou on iPhone, &quot;Every month at a glance, holidays in red&quot;: the Mehr 1405 month grid with Gregorian and lunar dates under each day." />
+  <img src="assets/apps/mahbanou/iphone-gahs.webp" width="150" alt="Mahbanou on iPhone, &quot;Sunrise, sunset and the five gahs&quot;: sunrise, noon and sunset in Tehran with the current gah, Havan, and the day's gah times." />
+  <img src="assets/apps/mahbanou/iphone-widgets.webp" width="150" alt="Mahbanou on iPhone, &quot;Widgets for your Home and Lock Screen&quot;: the Today, Gah and month widgets in several sizes, plus the Lock Screen widgets." />
 </p>
 
 ---
