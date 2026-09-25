@@ -28,8 +28,6 @@ More on [zubin.dev/blog](https://zubin.dev/blog/).
 
 ---
 
-<!-- Apps: hidden until the apps are live on the App Store. To show: replace APP_STORE_URL / MAHBANOU_APP_STORE_URL with the App Store links (drop any app that isn't live yet), then delete this comment's opening and closing markers.
-
 ## Apps
 
 iPhone, iPad and Apple Watch apps. More at [zubin.dev/apps](https://zubin.dev/apps/).
@@ -37,7 +35,7 @@ iPhone, iPad and Apple Watch apps. More at [zubin.dev/apps](https://zubin.dev/ap
 <a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
 **[Treble Trouble](https://zubin.dev/apps/treble-trouble/)**  
 Learn to read music, one small step at a time. Short lessons on the piano keys, treble and bass staff, and the beat, with a real piano sound and no timer or lives. Then famous tunes and timed games. 16 languages, no ads or tracking. iPhone and iPad, iOS 26 or later.  
-[Download on the App Store](APP_STORE_URL) · [More](https://zubin.dev/apps/treble-trouble/)
+Coming soon to the App Store · [More](https://zubin.dev/apps/treble-trouble/)
 
 <br clear="all" />
 
@@ -50,10 +48,10 @@ Learn to read music, one small step at a time. Short lessons on the piano keys, 
 
 &nbsp;
 
-<a href="MAHBANOU_APP_STORE_URL"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
-**[Mahbanou (ماهبانو)](MAHBANOU_APP_STORE_URL)**  
+<a href="https://zubin.dev/apps/mahbanou/"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
+**[Mahbanou (ماهبانو)](https://zubin.dev/apps/mahbanou/)**  
 A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's holidays, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
-[Download on the App Store](MAHBANOU_APP_STORE_URL)
+Coming soon to the App Store · [More](https://zubin.dev/apps/mahbanou/)
 
 <br clear="all" />
 
@@ -65,8 +63,6 @@ A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijr
 </p>
 
 ---
-
--->
 
 ## Projects
 
