@@ -34,7 +34,7 @@ iPhone, iPad and Apple Watch apps. More at [zubin.dev/apps](https://zubin.dev/ap
 
 <a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
 **[Treble Trouble](https://zubin.dev/apps/treble-trouble/)**  
-Learn to read music, one small step at a time. Short lessons on the piano keys, treble and bass staff, and the beat, with a real piano sound and no timer or lives. Then famous tunes and timed games. 16 languages, no ads or tracking. iPhone and iPad, iOS 26 or later.  
+Learn to read music, one small step at a time. Short lessons on the piano keys, treble and bass staff, and the beat, with a real piano sound and no timer or lives. Then famous tunes and timed games. 16 languages, no ads or tracking. iPhone and iPad, iOS 17 or later.  
 Coming soon to the App Store · [More](https://zubin.dev/apps/treble-trouble/)
 
 <br clear="all" />
@@ -48,6 +48,22 @@ Coming soon to the App Store · [More](https://zubin.dev/apps/treble-trouble/)
 
 &nbsp;
 
+<a href="https://zubin.dev/apps/mathness/"><img src="assets/apps/mathness/icon.png" width="96" height="96" align="left" alt="Mathness! app icon." /></a>
+**[Mathness!](https://zubin.dev/apps/mathness/)**  
+Learn math facts one strategy at a time. Addition, subtraction, multiplication and division the way good teachers do, with a picture that shows why each strategy works. Short lessons with no timer or lives, then timed drills when the facts stick. 10 languages, no ads or tracking. iPhone and iPad, iOS 17 or later.  
+Coming soon to the App Store · [More](https://zubin.dev/apps/mathness/)
+
+<br clear="all" />
+
+<p>
+  <img src="assets/apps/mathness/iphone-lessons.webp" width="150" alt="Mathness! on iPhone, &quot;Learn math facts, one strategy at a time&quot;: the Lessons tab with the next lesson card and the Addition, Subtraction and Place value tracks." />
+  <img src="assets/apps/mathness/iphone-make-ten.webp" width="150" alt="Mathness! on iPhone, &quot;Make ten to add faster&quot;: a Make 10 lesson fills a ten-frame to show 8 + 5 = 13." />
+  <img src="assets/apps/mathness/iphone-arrays.webp" width="150" alt="Mathness! on iPhone, &quot;Arrays make multiplication click&quot;: an Arrays lesson shows 3 rows of 4 counters making 12." />
+  <img src="assets/apps/mathness/iphone-beat-the-clock.webp" width="150" alt="Mathness! on iPhone, &quot;Beat the clock, keep your streak&quot;: a timed drill with the clock, score, streak and three hearts over 4 × 2." />
+</p>
+
+&nbsp;
+
 <a href="https://zubin.dev/apps/mahbanou/"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
 **[Mahbanou (ماهبانو)](https://zubin.dev/apps/mahbanou/)**  
 A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's holidays, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
@@ -56,10 +72,10 @@ Coming soon to the App Store · [More](https://zubin.dev/apps/mahbanou/)
 <br clear="all" />
 
 <p>
-  <img src="assets/apps/mahbanou/iphone-today.webp" width="150" alt="Mahbanou on iPhone, &quot;The Persian calendar, accurate to the day&quot;: the Today tab with 10 Mehr 1405, the Zoroastrian roj and mah, and today's occasions." />
-  <img src="assets/apps/mahbanou/iphone-month.webp" width="150" alt="Mahbanou on iPhone, &quot;Every month at a glance, holidays in red&quot;: the Mehr 1405 month grid with Gregorian and lunar dates under each day." />
-  <img src="assets/apps/mahbanou/iphone-gahs.webp" width="150" alt="Mahbanou on iPhone, &quot;Sunrise, sunset and the five gahs&quot;: sunrise, noon and sunset in Tehran with the current gah, Havan, and the day's gah times." />
-  <img src="assets/apps/mahbanou/iphone-widgets.webp" width="150" alt="Mahbanou on iPhone, &quot;Widgets for your Home and Lock Screen&quot;: the Today, Gah and month widgets in several sizes, plus the Lock Screen widgets." />
+  <img src="assets/apps/mahbanou/iphone-today.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;گاهشمار ایرانی، دقیق تا روز&quot; (the Persian calendar, accurate to the day): the Today tab with 10 Mehr 1405, the Zoroastrian roj and mah, and today's occasions." />
+  <img src="assets/apps/mahbanou/iphone-month.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;همهٔ ماه در یک نگاه، تعطیلات به رنگ سرخ&quot; (every month at a glance, holidays in red): the Mehr 1405 month grid with Gregorian and lunar dates under each day." />
+  <img src="assets/apps/mahbanou/iphone-gahs.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;طلوع و غروب خورشید و پنج گاه&quot; (sunrise, sunset and the five gahs): sunrise, noon and sunset in Tehran with the current gah, Havan, and the day's gah times." />
+  <img src="assets/apps/mahbanou/iphone-widgets.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;ویجت برای صفحهٔ اصلی و صفحهٔ قفل&quot; (widgets for the Home and Lock Screen): the Today, Gah and month widgets in several sizes." />
 </p>
 
 ---
