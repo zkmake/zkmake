@@ -118,11 +118,21 @@ WASD rolls a ball over floating tile islands while you collect gems. Rapier runs
 
 <br clear="all" />
 
-&nbsp;
+---
+
+## Open Source
+
+Libraries I publish on npm. The three.js ones live in [three-kit](https://github.com/zkmake/three-kit), my monorepo of three.js tools. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
 
 <a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter demo: a dark HUD with FPS, CPU, and GPU graphs, stutter stats, and per-stat toggles beside a pastel instanced cube on a light page, with the install command in the corner." /></a>
 <img src="assets/three-meter-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-meter](https://three-meter.pages.dev/)**  
-A zero-dependency three.js HUD for FPS, CPU and GPU time, stutter stats (1% low, p99, hitches), draw calls, a per-mesh cost breakdown, and budgets that flag values past a limit. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber. Part of [three-kit](https://github.com/zkmake/three-kit), my monorepo of three.js tools.  
+A zero-dependency three.js performance HUD: FPS, CPU and GPU time, stutter (1% low, p99, hitches), draw calls, and a per-mesh cost breakdown, with budgets that flag what's over. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber.  
 [Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
 
 <br clear="all" />
+
+&nbsp;
+
+**[three-audit](https://github.com/zkmake/three-kit/tree/main/packages/three-audit)**  
+Checks for a three.js scene: triangle counts, a geometry cost census, z-fighting, NaN normals, black frames, and a ledger of every draw call in one frame. The geometry checks need no renderer, so they run in a unit test as well as the browser console. Zero dependencies.  
+[GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-audit) · [npm](https://www.npmjs.com/package/@zkmake/three-audit)
