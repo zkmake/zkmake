@@ -120,9 +120,9 @@ WASD rolls a ball over floating tile islands while you collect gems. Rapier runs
 
 &nbsp;
 
-<a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter demo: a dark HUD with FPS, CPU, and GPU graphs and per-stat toggles beside a pastel instanced cube on a light page, with the install command in the corner." /></a>
+<a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter demo: a dark HUD with FPS, CPU, and GPU graphs, stutter stats, and per-stat toggles beside a pastel instanced cube on a light page, with the install command in the corner." /></a>
 <img src="assets/three-meter-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-meter](https://three-meter.pages.dev/)**  
-A zero-dependency three.js HUD for FPS, CPU, GPU, draw calls, and scene counts. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber.  
-[Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
+A zero-dependency three.js HUD for FPS, CPU and GPU time, stutter stats (1% low, p99, hitches), draw calls, a per-mesh cost breakdown, and budgets that flag values past a limit. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber. Part of [three-kit](https://github.com/zkmake/three-kit), my monorepo of three.js tools.  
+[Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
 
 <br clear="all" />
