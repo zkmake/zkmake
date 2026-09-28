@@ -28,6 +28,71 @@ More on [zubin.dev/blog](https://zubin.dev/blog/).
 
 ---
 
+## Open Source
+
+Libraries I publish on npm. The three.js ones live in [three-kit](https://github.com/zkmake/three-kit), my monorepo of three.js tools. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
+
+<a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter demo: a dark HUD with FPS, CPU, and GPU graphs, stutter stats, and per-stat toggles beside a pastel instanced cube on a light page, with the install command in the corner." /></a>
+<img src="assets/three-meter-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-meter](https://three-meter.pages.dev/)**  
+A zero-dependency three.js performance HUD: FPS, CPU and GPU time, stutter (1% low, p99, hitches), draw calls, and a per-mesh cost breakdown, with budgets that flag what's over. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber.  
+[Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
+
+<br clear="all" />
+
+&nbsp;
+
+**[three-audit](https://github.com/zkmake/three-kit/tree/main/packages/three-audit)**  
+Checks for a three.js scene: triangle counts, a geometry cost census, z-fighting, NaN normals, black frames, and a ledger of every draw call in one frame. The geometry checks need no renderer, so they run in a unit test as well as the browser console. Zero dependencies.  
+[GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-audit) · [npm](https://www.npmjs.com/package/@zkmake/three-audit)
+
+&nbsp;
+
+**[three-batch](https://github.com/zkmake/three-kit/tree/main/packages/three-batch)**  
+Fewer draw calls and triangles for three.js scenes: culling cells for meshes that span the world, static bakes, batches that follow moving objects, per-frame instance pools, and far copies made with meshoptimizer. It came out of Keyboard Express, where culling cells took a frame from 608k to 169k triangles. Works with vanilla three and React Three Fiber.  
+[GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-batch) · [npm](https://www.npmjs.com/package/@zkmake/three-batch)
+
+---
+
+## Projects
+
+Educational games and tools you can open in a browser. More at [zubin.dev/projects](https://zubin.dev/projects/).
+
+<a href="https://typos-voyage.edclub.io/"><img src="assets/typos-voyage.jpg" width="220" align="left" alt="Typo's Voyage: Typo rows a wooden boat through tropical water toward mines labeled with words, score and lives in the HUD." /></a>
+<img src="assets/typos-voyage-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Typo's Voyage](https://typos-voyage.edclub.io/)**  
+Typo rows a boat through tropical water and types words to clear mines and other obstacles on a voyage to get faster. I led the 3D team at [edclub](https://www.edclub.com/) that built it. Three.js.  
+[Play](https://typos-voyage.edclub.io/)
+
+<br clear="all" />
+
+&nbsp;
+
+<a href="https://keyboard-express.pages.dev/"><img src="assets/keyboard-express.png" width="220" align="left" alt="Keyboard Express! mid-run: a green steam engine pulls five wagons of cargo along a winding track past a stream and trees, the word ring on the sign ahead and ocean on the next, cargo 5/5 in the HUD." /></a>
+<img src="assets/keyboard-express-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Keyboard Express!](https://keyboard-express.pages.dev/)**  
+Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the track ahead of your train. Type each one before the engine reaches it, or a wagon of cargo falls off. Five levels, log piles, sidings, level crossings, and a plain full of scenery. React Three Fiber + Three.js.  
+[Play](https://keyboard-express.pages.dev/)
+
+<br clear="all" />
+
+&nbsp;
+
+<a href="https://connect-it-app.pages.dev/"><img src="assets/connect-it.png" width="220" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
+<img src="assets/connect-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[connect-it](https://connect-it-app.pages.dev/)**  
+You place timers, QR codes, logic gates, displays, and music nodes on a canvas and draw wires between them. Values update on the edges as you edit. An extensive node library helps you find nodes and learn about each, and a starter template library comes with it. Inspired by Austin Griffith’s [eth.build](https://eth.build/), which I still think is amazing. React Flow.  
+[Open](https://connect-it-app.pages.dev/)
+
+<br clear="all" />
+
+&nbsp;
+
+<a href="https://roll-it.pages.dev/"><img src="assets/roll-it.png" width="220" align="left" alt="roll-it: Sky Steps, soccer ball on floating tile islands with a wooden arch, a gem, timer, lives, and minimap." /></a>
+<img src="assets/roll-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[roll-it](https://roll-it.pages.dev/)**  
+WASD rolls a ball over floating tile islands while you collect gems. Rapier runs the physics. A sketch shader inks the world. When the ball rolls behind a wall or a tree, that scenery turns see-through. React Three Fiber + Three.js.  
+[Play](https://roll-it.pages.dev/)
+
+<br clear="all" />
+
+---
+
 ## Apps
 
 iPhone, iPad and Apple Watch apps. More at [zubin.dev/apps](https://zubin.dev/apps/).
@@ -77,68 +142,3 @@ Coming soon to the App Store · [More](https://zubin.dev/apps/mahbanou/)
   <img src="assets/apps/mahbanou/iphone-gahs.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;طلوع و غروب خورشید و پنج گاه&quot; (sunrise, sunset and the five gahs): sunrise, noon and sunset in Tehran with the current gah, Havan, and the day's gah times." />
   <img src="assets/apps/mahbanou/iphone-widgets.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;ویجت برای صفحهٔ اصلی و صفحهٔ قفل&quot; (widgets for the Home and Lock Screen): the Today, Gah and month widgets in several sizes." />
 </p>
-
----
-
-## Projects
-
-Educational games and tools you can open in a browser. More at [zubin.dev/projects](https://zubin.dev/projects/).
-
-<a href="https://typos-voyage.edclub.io/"><img src="assets/typos-voyage.jpg" width="220" align="left" alt="Typo's Voyage: Typo rows a wooden boat through tropical water toward mines labeled with words, score and lives in the HUD." /></a>
-<img src="assets/typos-voyage-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Typo's Voyage](https://typos-voyage.edclub.io/)**  
-Typo rows a boat through tropical water and types words to clear mines and other obstacles on a voyage to get faster. I led the 3D team at [edclub](https://www.edclub.com/) that built it. Three.js.  
-[Play](https://typos-voyage.edclub.io/)
-
-<br clear="all" />
-
-&nbsp;
-
-<a href="https://keyboard-express.pages.dev/"><img src="assets/keyboard-express.png" width="220" align="left" alt="Keyboard Express! mid-run: a green steam engine pulls five wagons of cargo along a winding track past a stream and trees, the word ring on the sign ahead and ocean on the next, cargo 5/5 in the HUD." /></a>
-<img src="assets/keyboard-express-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Keyboard Express!](https://keyboard-express.pages.dev/)**  
-Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the track ahead of your train. Type each one before the engine reaches it, or a wagon of cargo falls off. Five levels, log piles, sidings, level crossings, and a plain full of scenery. React Three Fiber + Three.js.  
-[Play](https://keyboard-express.pages.dev/)
-
-<br clear="all" />
-
-&nbsp;
-
-<a href="https://connect-it-app.pages.dev/"><img src="assets/connect-it.png" width="220" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
-<img src="assets/connect-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[connect-it](https://connect-it-app.pages.dev/)**  
-You place timers, QR codes, logic gates, displays, and music nodes on a canvas and draw wires between them. Values update on the edges as you edit. An extensive node library helps you find nodes and learn about each, and a starter template library comes with it. Inspired by Austin Griffith’s [eth.build](https://eth.build/), which I still think is amazing. React Flow.  
-[Open](https://connect-it-app.pages.dev/)
-
-<br clear="all" />
-
-&nbsp;
-
-<a href="https://roll-it.pages.dev/"><img src="assets/roll-it.png" width="220" align="left" alt="roll-it: Sky Steps, soccer ball on floating tile islands with a wooden arch, a gem, timer, lives, and minimap." /></a>
-<img src="assets/roll-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[roll-it](https://roll-it.pages.dev/)**  
-WASD rolls a ball over floating tile islands while you collect gems. Rapier runs the physics. A sketch shader inks the world. When the ball rolls behind a wall or a tree, that scenery turns see-through. React Three Fiber + Three.js.  
-[Play](https://roll-it.pages.dev/)
-
-<br clear="all" />
-
----
-
-## Open Source
-
-Libraries I publish on npm. The three.js ones live in [three-kit](https://github.com/zkmake/three-kit), my monorepo of three.js tools. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
-
-<a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter demo: a dark HUD with FPS, CPU, and GPU graphs, stutter stats, and per-stat toggles beside a pastel instanced cube on a light page, with the install command in the corner." /></a>
-<img src="assets/three-meter-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-meter](https://three-meter.pages.dev/)**  
-A zero-dependency three.js performance HUD: FPS, CPU and GPU time, stutter (1% low, p99, hitches), draw calls, and a per-mesh cost breakdown, with budgets that flag what's over. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber.  
-[Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
-
-<br clear="all" />
-
-&nbsp;
-
-**[three-audit](https://github.com/zkmake/three-kit/tree/main/packages/three-audit)**  
-Checks for a three.js scene: triangle counts, a geometry cost census, z-fighting, NaN normals, black frames, and a ledger of every draw call in one frame. The geometry checks need no renderer, so they run in a unit test as well as the browser console. Zero dependencies.  
-[GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-audit) · [npm](https://www.npmjs.com/package/@zkmake/three-audit)
-
-&nbsp;
-
-**[three-batch](https://github.com/zkmake/three-kit/tree/main/packages/three-batch)**  
-Fewer draw calls and triangles for three.js scenes: culling cells for meshes that span the world, static bakes, batches that follow moving objects, per-frame instance pools, and far copies made with meshoptimizer. It came out of Keyboard Express, where culling cells took a frame from 608k to 169k triangles. Works with vanilla three and React Three Fiber.  
-[GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-batch) · [npm](https://www.npmjs.com/package/@zkmake/three-batch)
