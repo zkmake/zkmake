@@ -95,7 +95,21 @@ WASD rolls a ball over floating tile islands while you collect gems. Rapier runs
 
 ## Apps
 
-iPhone, iPad and Apple Watch apps. More at [zubin.dev/apps](https://zubin.dev/apps/).
+Apps for the web, iPhone, iPad and Apple Watch. More at [zubin.dev/apps](https://zubin.dev/apps/).
+
+<a href="https://zubin.dev/apps/math-worksheets/"><img src="assets/apps/mathness/icon.png" width="96" height="96" align="left" alt="Mathness! app icon." /></a>
+**[Mathness! Math Worksheets](https://zubin.dev/apps/math-worksheets/)**  
+Printable K-5 math worksheets for every Common Core standard, each with an answer key laid out like the sheet. The problems are generated and the answers worked out, so there's always a fresh sheet, and the hand-drawn pages print crisp in black and white. English, free, no sign-up or tracking. Any modern browser.  
+[Open mathness.app](https://mathness.app/) · [More](https://zubin.dev/apps/math-worksheets/)
+
+<br clear="all" />
+
+<p>
+  <img src="assets/apps/math-worksheets/web-home.webp" width="400" alt="Mathness! Math Worksheets home page: Printable math worksheets, K-5, the five theme characters, a search box, grade tiles from Kindergarten to Grade 5, and sample sheets." />
+  <img src="assets/apps/math-worksheets/web-sheet-time.webp" width="400" alt="Zookeeper Zara's Busy Day, a Grade 2 telling-time sheet with clocks to read and draw, beside its answer key in red pen." />
+</p>
+
+&nbsp;
 
 <a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
 **[Treble Trouble](https://zubin.dev/apps/treble-trouble/)**  
