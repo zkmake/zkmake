@@ -102,7 +102,7 @@ Printable K-5 math worksheets for every Common Core standard, with Maryland, Tex
 <a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
 **[Treble Trouble](https://zubin.dev/apps/treble-trouble/)**  
 Learn to read music, one small step at a time. Short lessons on the piano keys, treble and bass staff, and the beat, with a real piano sound and no timer or lives. Then famous tunes and timed games. 16 languages, no ads or tracking. iPhone and iPad, iOS 17 or later.  
-Coming soon to the App Store · [More](https://zubin.dev/apps/treble-trouble/)
+[Download on the App Store](https://apps.apple.com/us/app/treble-trouble-read-music/id6815917950) · [More](https://zubin.dev/apps/treble-trouble/)
 
 <br clear="all" />
 
