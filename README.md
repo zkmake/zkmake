@@ -97,7 +97,7 @@ WASD rolls a ball over floating tile islands while you collect gems. Rapier runs
 
 Apps for the web, iPhone, iPad and Apple Watch. More at [zubin.dev/apps](https://zubin.dev/apps/).
 
-<a href="https://zubin.dev/apps/math-worksheets/"><img src="assets/apps/mathness/icon.png" width="96" height="96" align="left" alt="Mathness! app icon." /></a>
+<a href="https://zubin.dev/apps/math-worksheets/"><img src="assets/apps/math-worksheets/icon.png" width="96" height="96" align="left" alt="Mathness! Math Worksheets app icon." /></a>
 **[Mathness! Math Worksheets](https://zubin.dev/apps/math-worksheets/)**  
 Printable K-5 math worksheets for every Common Core standard, each with an answer key laid out like the sheet. The problems are generated and the answers worked out, so there's always a fresh sheet, and the hand-drawn pages print crisp in black and white. English, free, no sign-up or tracking. Any modern browser.  
 [Open mathness.app](https://mathness.app/) · [More](https://zubin.dev/apps/math-worksheets/)
