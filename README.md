@@ -16,26 +16,14 @@ I build for the web and write about what I learn along the way. React, TypeScrip
 
 ## Open Source
 
-Libraries I publish on npm. The three.js ones live in [three-kit](https://github.com/zkmake/three-kit), my monorepo of three.js tools. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
+Libraries I publish on npm. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
 
-<a href="https://three-meter.pages.dev/"><img src="assets/three-meter.png" width="220" align="left" alt="three-meter demo: a dark HUD with FPS, CPU, and GPU graphs, stutter stats, and per-stat toggles beside a pastel instanced cube on a light page, with the install command in the corner." /></a>
-<img src="assets/three-meter-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-meter](https://three-meter.pages.dev/)**  
-A zero-dependency three.js performance HUD: FPS, CPU and GPU time, stutter (1% low, p99, hitches), draw calls, and a per-mesh cost breakdown, with budgets that flag what's over. The sampler and the card stay separate so toggling the HUD never remounts the canvas. Works with vanilla three and React Three Fiber.  
-[Open](https://three-meter.pages.dev/) · [GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-meter) · [npm](https://www.npmjs.com/package/@zkmake/three-meter)
+<a href="https://three-kit.pages.dev/"><img src="assets/three-kit.png" width="220" align="left" alt="three-kit's three-textures demo in dark mode: painted crates, a blue knot and sticker cards, the texture panel listing crate, noise and stickers, and the three-meter HUD with FPS, CPU, GPU and draw calls." /></a>
+<img src="assets/three-kit-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-kit](https://three-kit.pages.dev/)**  
+three.js dev tools, each published on npm as `@zkmake/*`: a performance HUD, a live texture panel, scene audits and draw-call batching. Vanilla three and React Three Fiber.  
+[Open](https://three-kit.pages.dev/) · [GitHub](https://github.com/zkmake/three-kit) · [npm](https://www.npmjs.com/org/zkmake)
 
 <br clear="all" />
-
-&nbsp;
-
-**[three-audit](https://github.com/zkmake/three-kit/tree/main/packages/three-audit)**  
-Checks for a three.js scene: triangle counts, a geometry cost census, z-fighting, NaN normals, black frames, and a ledger of every draw call in one frame. The geometry checks need no renderer, so they run in a unit test as well as the browser console. Zero dependencies.  
-[GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-audit) · [npm](https://www.npmjs.com/package/@zkmake/three-audit)
-
-&nbsp;
-
-**[three-batch](https://github.com/zkmake/three-kit/tree/main/packages/three-batch)**  
-Fewer draw calls and triangles for three.js scenes: culling cells for meshes that span the world, static bakes, batches that follow moving objects, per-frame instance pools, and far copies made with meshoptimizer. It came out of Keyboard Express, where culling cells took a frame from 608k to 169k triangles. Works with vanilla three and React Three Fiber.  
-[GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-batch) · [npm](https://www.npmjs.com/package/@zkmake/three-batch)
 
 ---
 
