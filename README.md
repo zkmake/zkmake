@@ -136,3 +136,9 @@ A zero-dependency three.js performance HUD: FPS, CPU and GPU time, stutter (1% l
 **[three-audit](https://github.com/zkmake/three-kit/tree/main/packages/three-audit)**  
 Checks for a three.js scene: triangle counts, a geometry cost census, z-fighting, NaN normals, black frames, and a ledger of every draw call in one frame. The geometry checks need no renderer, so they run in a unit test as well as the browser console. Zero dependencies.  
 [GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-audit) · [npm](https://www.npmjs.com/package/@zkmake/three-audit)
+
+&nbsp;
+
+**[three-batch](https://github.com/zkmake/three-kit/tree/main/packages/three-batch)**  
+Fewer draw calls and triangles for three.js scenes: culling cells for meshes that span the world, static bakes, batches that follow moving objects, per-frame instance pools, and far copies made with meshoptimizer. It came out of Keyboard Express, where culling cells took a frame from 608k to 169k triangles. Works with vanilla three and React Three Fiber.  
+[GitHub](https://github.com/zkmake/three-kit/tree/main/packages/three-batch) · [npm](https://www.npmjs.com/package/@zkmake/three-batch)
