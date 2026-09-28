@@ -40,10 +40,10 @@ Typo rows a boat through tropical water and types words to clear mines and other
 
 &nbsp;
 
-<a href="https://keyboard-express.pages.dev/"><img src="assets/keyboard-express.png" width="220" align="left" alt="Keyboard Express! mid-run: a green steam engine pulls five wagons of cargo along a winding track past a stream and trees, the word ring on the sign ahead and ocean on the next, cargo 5/5 in the HUD." /></a>
-<img src="assets/keyboard-express-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Keyboard Express!](https://keyboard-express.pages.dev/)**  
+<a href="https://keyboard-express.edclub.io/"><img src="assets/keyboard-express.png" width="220" align="left" alt="Keyboard Express title screen: KEYBOARD EXPRESS! and Type fast, keep the cargo over a green steam train pulling cargo wagons across a plain, with Settings, How to play and Play buttons." /></a>
+<img src="assets/keyboard-express-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Keyboard Express!](https://keyboard-express.edclub.io/)**  
 Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the track ahead of your train. Type each one before the engine reaches it, or a wagon of cargo falls off. Five levels, log piles, sidings, level crossings, and a plain full of scenery. React Three Fiber + Three.js.  
-[Play](https://keyboard-express.pages.dev/)
+[Play](https://keyboard-express.edclub.io/)
 
 <br clear="all" />
 
