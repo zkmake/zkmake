@@ -105,7 +105,7 @@ Printable K-5 math worksheets for every Common Core standard, each with an answe
 <br clear="all" />
 
 <p>
-  <img src="assets/apps/math-worksheets/web-home.webp" width="400" alt="Mathness! Math Worksheets home page: Printable math worksheets, K-5, the five theme characters, a search box, grade tiles from Kindergarten to Grade 5, and sample sheets." />
+  <img src="assets/apps/math-worksheets/web-home.webp" width="400" alt="Mathness! Math Worksheets home page: Printable math worksheets, K-5, a Common Core or Maryland 2025 standards switch, the five theme characters, a search box, grade tiles from Kindergarten to Grade 5, and sample sheets." />
   <img src="assets/apps/math-worksheets/web-sheet-time.webp" width="400" alt="Zookeeper Zara's Busy Day, a Grade 2 telling-time sheet with clocks to read and draw, beside its answer key in red pen." />
 </p>
 
