@@ -14,20 +14,6 @@ I build for the web and write about what I learn along the way. React, TypeScrip
 
 ---
 
-## Writing
-
-A two-part series on the audio layer most web games skip.
-
-**[Soundscapes for Web Games: The Layer Beneath Your SFX, Part 1](https://zubin.dev/blog/web-game-soundscapes-1-concepts/)**  
-Web games sound flat because they treat audio as event SFX. A soundscape is the layer that fills the silence.
-
-**[Soundscapes for Web Games: A Pluggable Howler Implementation, Part 2](https://zubin.dev/blog/web-game-soundscapes-2-howler/)**  
-The soundscape engine is one class under a hundred lines. A six-function adapter is the seam.
-
-More on [zubin.dev/blog](https://zubin.dev/blog/).
-
----
-
 ## Open Source
 
 Libraries I publish on npm. The three.js ones live in [three-kit](https://github.com/zkmake/three-kit), my monorepo of three.js tools. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
@@ -90,6 +76,20 @@ WASD rolls a ball over floating tile islands while you collect gems. Rapier runs
 [Play](https://roll-it.pages.dev/)
 
 <br clear="all" />
+
+---
+
+## Writing
+
+A two-part series on the audio layer most web games skip.
+
+**[Soundscapes for Web Games: The Layer Beneath Your SFX, Part 1](https://zubin.dev/blog/web-game-soundscapes-1-concepts/)**  
+Web games sound flat because they treat audio as event SFX. A soundscape is the layer that fills the silence.
+
+**[Soundscapes for Web Games: A Pluggable Howler Implementation, Part 2](https://zubin.dev/blog/web-game-soundscapes-2-howler/)**  
+The soundscape engine is one class under a hundred lines. A six-function adapter is the seam.
+
+More on [zubin.dev/blog](https://zubin.dev/blog/).
 
 ---
 
