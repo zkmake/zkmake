@@ -116,7 +116,7 @@ Coming soon to the App Store · [More](https://zubin.dev/apps/treble-trouble/)
 <a href="https://zubin.dev/apps/mathness/"><img src="assets/apps/mathness/icon.png" width="96" height="96" align="left" alt="Mathness! app icon." /></a>
 **[Mathness!](https://zubin.dev/apps/mathness/)**  
 Learn math facts one strategy at a time. Addition, subtraction, multiplication and division the way good teachers do, with a picture that shows why each strategy works. Short lessons with no timer or lives, then timed drills when the facts stick. 10 languages, no ads or tracking. iPhone and iPad, iOS 17 or later.  
-Coming soon to the App Store · [More](https://zubin.dev/apps/mathness/)
+[Download on the App Store](https://apps.apple.com/us/app/mathness-learn-math-facts/id6815915534) · [More](https://zubin.dev/apps/mathness/)
 
 <br clear="all" />
 
@@ -131,7 +131,7 @@ Coming soon to the App Store · [More](https://zubin.dev/apps/mathness/)
 
 <a href="https://zubin.dev/apps/mahbanou/"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
 **[Mahbanou (ماهبانو)](https://zubin.dev/apps/mahbanou/)**  
-A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's holidays, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
+A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's public holidays and the Iranian and Zoroastrian feasts, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
 Coming soon to the App Store · [More](https://zubin.dev/apps/mahbanou/)
 
 <br clear="all" />
