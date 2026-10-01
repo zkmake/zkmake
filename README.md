@@ -18,10 +18,10 @@ I build for the web and write about what I learn along the way. React, TypeScrip
 
 Libraries I publish on npm. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
 
-<a href="https://three-kit.pages.dev/"><img src="assets/three-kit.png" width="220" align="left" alt="three-kit's three-textures demo in dark mode: painted crates, a blue knot and sticker cards, the texture panel listing crate, noise and stickers, and the three-meter HUD with FPS, CPU, GPU and draw calls." /></a>
-<img src="assets/three-kit-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-kit](https://three-kit.pages.dev/)**  
+<a href="https://zubin.dev/three-kit/"><img src="assets/three-kit.png" width="220" align="left" alt="three-kit's three-textures demo in dark mode: painted crates, a blue knot and sticker cards, the texture panel listing crate, noise and stickers, and the three-meter HUD with FPS, CPU, GPU and draw calls." /></a>
+<img src="assets/three-kit-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-kit](https://zubin.dev/three-kit/)**  
 three.js dev tools, each published on npm as `@zkmake/*`: a performance HUD, a live texture panel, scene audits and draw-call batching. Vanilla three and React Three Fiber.  
-[Open](https://three-kit.pages.dev/) · [GitHub](https://github.com/zkmake/three-kit) · [npm](https://www.npmjs.com/org/zkmake)
+[Open](https://zubin.dev/three-kit/) · [GitHub](https://github.com/zkmake/three-kit) · [npm](https://www.npmjs.com/org/zkmake)
 
 <br clear="all" />
 
