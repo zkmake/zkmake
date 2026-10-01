@@ -67,7 +67,7 @@ Learn to type on a 3D typewriter. Every key prints on the paper, the carriage st
 
 &nbsp;
 
-<a href="https://sketchy-space-attack-edclub.pages.dev/"><img src="assets/sketchy-space-attack.png" width="160" align="left" alt="Sketchy Space Attack on a notebook page: an ink shot from the hand-drawn rocket loops round a doodle labeled page, beside a spider labeled tide and a falling dart labeled i, with three hearts and a tally of doodles left." /></a>
+<a href="https://sketchy-space-attack-edclub.pages.dev/"><img src="assets/sketchy-space-attack.png" width="160" align="left" alt="Sketchy Space Attack's whole notebook page: the hand-drawn rocket's ink shot lands with a WHAM! on a doodle, beside a spider labeled hawk and falling darts labeled s and d, with three hearts and a tally of doodles left." /></a>
 <img src="assets/sketchy-space-attack-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Sketchy Space Attack](https://sketchy-space-attack-edclub.pages.dev/)**  
 Doodles on a notebook page carry words, and typing a word shoots it down before it reaches your ship. Spiders, darts and a three-word boss come down the page, drawn with hatching and wobbly ink, on notebook, chalkboard or blueprint paper. I built it on my own for [edclub](https://www.edclub.com/). Three.js.  
 [Play](https://sketchy-space-attack-edclub.pages.dev/)
