@@ -49,6 +49,15 @@ Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the 
 
 &nbsp;
 
+<a href="https://virtual-room-edclub.pages.dev/"><img src="assets/virtual-room.png" width="220" align="left" alt="Organize It! bedroom: an isometric 3D bedroom with clothes, toys, books and a guitar scattered across the floor and bed, a frog plush by the bed, and a 0 of 26 counter." /></a>
+<img src="assets/virtual-room-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Organize It!](https://virtual-room-edclub.pages.dev/)**  
+Game for kids from [edclub](https://www.edclub.com/). Look around a messy 3D bedroom, living room or classroom, pick up each thing that's out of place and drop it where it belongs. Every object has its own narration, and a hint shows up when you get stuck. React Three Fiber + Three.js.  
+[Play](https://virtual-room-edclub.pages.dev/)
+
+<br clear="all" />
+
+&nbsp;
+
 <a href="https://connect-it-app.pages.dev/"><img src="assets/connect-it.png" width="220" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
 <img src="assets/connect-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[connect-it](https://connect-it-app.pages.dev/)**  
 You place timers, QR codes, logic gates, displays, and music nodes on a canvas and draw wires between them. Values update on the edges as you edit. An extensive node library helps you find nodes and learn about each, and a starter template library comes with it. Inspired by Austin Griffith’s [eth.build](https://eth.build/), which I still think is amazing. React Flow.  
