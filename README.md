@@ -18,7 +18,7 @@ I build for the web and write about what I learn along the way. React, TypeScrip
 
 Libraries I publish on npm. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
 
-<a href="https://zubin.dev/three-kit/"><img src="assets/three-kit.png" width="220" align="left" alt="three-kit's three-textures demo in dark mode: painted crates, a blue knot and sticker cards, the texture panel listing crate, noise and stickers, and the three-meter HUD with FPS, CPU, GPU and draw calls." /></a>
+<a href="https://zubin.dev/three-kit/"><img src="assets/three-kit.png" width="160" align="left" alt="three-kit's three-textures demo in dark mode: painted crates, a blue knot and sticker cards, the texture panel listing crate, noise and stickers, and the three-meter HUD with FPS, CPU, GPU and draw calls." /></a>
 <img src="assets/three-kit-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-kit](https://zubin.dev/three-kit/)**  
 three.js dev tools, each published on npm as `@zkmake/*`: a performance HUD, a live texture panel, scene audits and draw-call batching. Vanilla three and React Three Fiber.  
 [Open](https://zubin.dev/three-kit/) · [GitHub](https://github.com/zkmake/three-kit) · [npm](https://www.npmjs.com/org/zkmake)
@@ -31,7 +31,7 @@ three.js dev tools, each published on npm as `@zkmake/*`: a performance HUD, a l
 
 Educational games and tools you can open in a browser. More at [zubin.dev/projects](https://zubin.dev/projects/).
 
-<a href="https://typos-voyage.edclub.io/"><img src="assets/typos-voyage.jpg" width="220" align="left" alt="Typo's Voyage: Typo rows a wooden boat through tropical water toward mines labeled with words, score and lives in the HUD." /></a>
+<a href="https://typos-voyage.edclub.io/"><img src="assets/typos-voyage.jpg" width="160" align="left" alt="Typo's Voyage: Typo rows a wooden boat through tropical water toward mines labeled with words, score and lives in the HUD." /></a>
 <img src="assets/typos-voyage-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Typo's Voyage](https://typos-voyage.edclub.io/)**  
 Typo rows a boat through tropical water and types words to clear mines and other obstacles on a voyage to get faster. I led the 3D team at [edclub](https://www.edclub.com/) that built it. Three.js.  
 [Play](https://typos-voyage.edclub.io/)
@@ -40,7 +40,7 @@ Typo rows a boat through tropical water and types words to clear mines and other
 
 &nbsp;
 
-<a href="https://keyboard-express.edclub.io/"><img src="assets/keyboard-express.png" width="220" align="left" alt="Keyboard Express title screen: KEYBOARD EXPRESS! and Type fast, keep the cargo over a green steam train pulling cargo wagons across a plain, with Settings, How to play and Play buttons." /></a>
+<a href="https://keyboard-express.edclub.io/"><img src="assets/keyboard-express.png" width="160" align="left" alt="Keyboard Express title screen: KEYBOARD EXPRESS! and Type fast, keep the cargo over a green steam train pulling cargo wagons across a plain, with Settings, How to play and Play buttons." /></a>
 <img src="assets/keyboard-express-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Keyboard Express!](https://keyboard-express.edclub.io/)**  
 Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the track ahead of your train. Type each one before the engine reaches it, or a wagon of cargo falls off. Five levels, log piles, sidings, level crossings, and a plain full of scenery. React Three Fiber + Three.js.  
 [Play](https://keyboard-express.edclub.io/)
@@ -49,7 +49,7 @@ Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the 
 
 &nbsp;
 
-<a href="https://virtual-room-edclub.pages.dev/"><img src="assets/virtual-room.png" width="220" align="left" alt="Organize It! bedroom: an isometric 3D bedroom with clothes, toys, books and a guitar scattered across the floor and bed, a frog plush by the bed, and a 0 of 26 counter." /></a>
+<a href="https://virtual-room-edclub.pages.dev/"><img src="assets/virtual-room.png" width="160" align="left" alt="Organize It! bedroom: an isometric 3D bedroom with clothes, toys, books and a guitar scattered across the floor and bed, a frog plush by the bed, and a 0 of 26 counter." /></a>
 <img src="assets/virtual-room-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Organize It!](https://virtual-room-edclub.pages.dev/)**  
 Look around a messy 3D bedroom, living room or classroom, pick up each thing that's out of place and drop it where it belongs. Every object has its own narration, and a hint shows up when you get stuck. I led the 3D team at [edclub](https://www.edclub.com/) that built it. React Three Fiber + Three.js.  
 [Play](https://virtual-room-edclub.pages.dev/)
@@ -58,7 +58,25 @@ Look around a messy 3D bedroom, living room or classroom, pick up each thing tha
 
 &nbsp;
 
-<a href="https://connect-it-app.pages.dev/"><img src="assets/connect-it.png" width="220" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
+<a href="https://typewriter-edclub.pages.dev/"><img src="assets/typewriter.png" width="160" align="left" alt="Typewriter's modern Orbit machine mid-lesson: asdf jkl; printed on the paper by its golf-ball type element, the lesson line and 21 wpm in the bar above, and cream keys with a red return key." /></a>
+<img src="assets/typewriter-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Typewriter](https://typewriter-edclub.pages.dev/)**  
+Learn to type on a 3D typewriter. Every key prints on the paper, the carriage steps along, the bell rings near the margin and Return throws the carriage back. Type on a modern golf-ball machine or a vintage one whose typebars swing up to the paper. I built it on my own for [edclub](https://www.edclub.com/). React Three Fiber + Three.js.  
+[Play](https://typewriter-edclub.pages.dev/)
+
+<br clear="all" />
+
+&nbsp;
+
+<a href="https://sketchy-space-attack-edclub.pages.dev/"><img src="assets/sketchy-space-attack.png" width="160" align="left" alt="Sketchy Space Attack on a notebook page: an ink shot from the hand-drawn rocket loops round a doodle labeled page, beside a spider labeled tide and a falling dart labeled i, with three hearts and a tally of doodles left." /></a>
+<img src="assets/sketchy-space-attack-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Sketchy Space Attack](https://sketchy-space-attack-edclub.pages.dev/)**  
+Doodles on a notebook page carry words, and typing a word shoots it down before it reaches your ship. Spiders, darts and a three-word boss come down the page, drawn with hatching and wobbly ink, on notebook, chalkboard or blueprint paper. I built it on my own for [edclub](https://www.edclub.com/). Three.js.  
+[Play](https://sketchy-space-attack-edclub.pages.dev/)
+
+<br clear="all" />
+
+&nbsp;
+
+<a href="https://connect-it-app.pages.dev/"><img src="assets/connect-it.png" width="160" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></a>
 <img src="assets/connect-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[connect-it](https://connect-it-app.pages.dev/)**  
 You place timers, QR codes, logic gates, displays, and music nodes on a canvas and draw wires between them. Values update on the edges as you edit. An extensive node library helps you find nodes and learn about each, and a starter template library comes with it. Inspired by Austin Griffith’s [eth.build](https://eth.build/), which I still think is amazing. React Flow.  
 [Open](https://connect-it-app.pages.dev/)
@@ -67,7 +85,7 @@ You place timers, QR codes, logic gates, displays, and music nodes on a canvas a
 
 &nbsp;
 
-<a href="https://roll-it.pages.dev/"><img src="assets/roll-it.png" width="220" align="left" alt="roll-it: Sky Steps, soccer ball on floating tile islands with a wooden arch, a gem, timer, lives, and minimap." /></a>
+<a href="https://roll-it.pages.dev/"><img src="assets/roll-it.png" width="160" align="left" alt="roll-it: Sky Steps, soccer ball on floating tile islands with a wooden arch, a gem, timer, lives, and minimap." /></a>
 <img src="assets/roll-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[roll-it](https://roll-it.pages.dev/)**  
 WASD rolls a ball over floating tile islands while you collect gems. Rapier runs the physics. A sketch shader inks the world. When the ball rolls behind a wall or a tree, that scenery turns see-through. React Three Fiber + Three.js.  
 [Play](https://roll-it.pages.dev/)
