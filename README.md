@@ -18,9 +18,9 @@ I build learning apps and 3D games for the web and native apps (iOS and Android)
 
 Libraries I publish on npm. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
 
-<a href="https://zkmake.github.io/three-kit/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/taped/three-kit-dark.png" /><img src="assets/taped/three-kit.png" width="210" align="left" alt="three-kit's three-textures demo in dark mode: painted crates, a blue knot and sticker cards, the texture panel listing crate, noise and stickers, and the three-meter HUD with FPS, CPU, GPU and draw calls." /></picture></a>
+<a href="https://zkmake.github.io/three-kit/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/taped/three-kit-dark.png" /><img src="assets/taped/three-kit.png" width="210" align="left" alt="three-kit's home page in dark mode: Find and fix what makes a three.js scene slow or broken, beside a cube of 4,096 small cubes measured by the three-meter HUD (FPS, CPU, GPU, one draw call) and an install snippet." /></picture></a>
 <img src="assets/three-kit-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-kit](https://zkmake.github.io/three-kit/)**  
-three.js dev tools, each published on npm as `@zkmake/*`: a performance HUD, a live texture panel, scene audits and draw-call batching. Vanilla three and React Three Fiber.  
+three.js dev tools, each published on npm as `@zkmake/*`: a performance HUD, a live texture panel, a camera inspector, scene audits and draw-call batching. Vanilla three and React Three Fiber.  
 [Open](https://zkmake.github.io/three-kit/) · [GitHub](https://github.com/zkmake/three-kit) · [npm](https://www.npmjs.com/org/zkmake)
 
 <br clear="all" />
