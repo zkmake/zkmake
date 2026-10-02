@@ -1,6 +1,6 @@
 ### Hey, I'm Zubin
 
-I build for the web and write about what I learn along the way. React, TypeScript, Three.js, game-dev, and AI-native engineering.
+I build learning apps and 3D games for the web and native apps (iOS and Android), and write about what I learn along the way. React, TypeScript, Three.js, game-dev, and AI-native engineering.
 
 <p>
   <a href="https://zubin.dev"><img src="assets/icons/web.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;zubin.dev</a>
