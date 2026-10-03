@@ -119,11 +119,6 @@ Printable K-5 math worksheets for every Common Core standard, with Maryland, Tex
 
 <br clear="all" />
 
-<p>
-  <img src="assets/apps/math-worksheets/web-home.webp" width="400" alt="Mathness! Math Worksheets home page: Printable math worksheets, K-5, the five theme characters, a search box, a choice of Common Core, Maryland 2025, Texas TEKS, Florida B.E.S.T. or Virginia SOL standards, grade tiles from Kindergarten to Grade 5, and a curriculum's units." />
-  <img src="assets/apps/math-worksheets/web-sheet-time.webp" width="400" alt="Zookeeper Zara's Busy Day, a Grade 2 telling-time sheet with clocks to read and draw, beside its answer key in red pen." />
-</p>
-
 &nbsp;
 
 <a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
@@ -132,13 +127,6 @@ Learn to read music, one small step at a time. Short lessons on the piano keys, 
 [Download on the App Store](https://apps.apple.com/us/app/treble-trouble-read-music/id6815917950) · [More](https://zubin.dev/apps/treble-trouble/)
 
 <br clear="all" />
-
-<p>
-  <img src="assets/apps/treble-trouble/iphone-lessons.webp" width="150" alt="Treble Trouble on iPhone, &quot;Learn to read music, one small step at a time&quot;: the Lessons tab with the Half notes lesson up next and the Piano keys and Treble paths." />
-  <img src="assets/apps/treble-trouble/iphone-name-the-note.webp" width="150" alt="Treble Trouble on iPhone, &quot;Name the notes on the staff&quot;: an Every treble note lesson asks What note is this? with a helper staff and four letter choices." />
-  <img src="assets/apps/treble-trouble/iphone-find-the-key.webp" width="150" alt="Treble Trouble on iPhone, &quot;Find every note on the piano&quot;: a Sharp keys lesson asks the child to find F sharp on a piano keyboard." />
-  <img src="assets/apps/treble-trouble/iphone-play-a-tune.webp" width="150" alt="Treble Trouble on iPhone, &quot;Play famous tunes, note by note&quot;: Twinkle, Twinkle on the treble staff with one note lit up and four letter choices." />
-</p>
 
 &nbsp;
 
@@ -149,13 +137,6 @@ Learn math facts one strategy at a time. Addition, subtraction, multiplication a
 
 <br clear="all" />
 
-<p>
-  <img src="assets/apps/mathness/iphone-lessons.webp" width="150" alt="Mathness! on iPhone, &quot;Learn math facts, one strategy at a time&quot;: the Lessons tab with the next lesson card and the Addition, Subtraction and Place value tracks." />
-  <img src="assets/apps/mathness/iphone-make-ten.webp" width="150" alt="Mathness! on iPhone, &quot;Make ten to add faster&quot;: a Make 10 lesson fills a ten-frame to show 8 + 5 = 13." />
-  <img src="assets/apps/mathness/iphone-arrays.webp" width="150" alt="Mathness! on iPhone, &quot;Arrays make multiplication click&quot;: an Arrays lesson shows 3 rows of 4 counters making 12." />
-  <img src="assets/apps/mathness/iphone-beat-the-clock.webp" width="150" alt="Mathness! on iPhone, &quot;Beat the clock, keep your streak&quot;: a timed drill with the clock, score, streak and three hearts over 4 × 2." />
-</p>
-
 &nbsp;
 
 <a href="https://zubin.dev/apps/mahbanou/"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
@@ -164,10 +145,3 @@ A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijr
 Coming soon to the App Store · [More](https://zubin.dev/apps/mahbanou/)
 
 <br clear="all" />
-
-<p>
-  <img src="assets/apps/mahbanou/iphone-today.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;گاهشمار ایرانی، دقیق تا روز&quot; (the Persian calendar, accurate to the day): the Today tab with 10 Mehr 1405, the Zoroastrian roj and mah, and today's occasions." />
-  <img src="assets/apps/mahbanou/iphone-month.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;همهٔ ماه در یک نگاه، تعطیلات به رنگ سرخ&quot; (every month at a glance, holidays in red): the Mehr 1405 month grid with Gregorian and lunar dates under each day." />
-  <img src="assets/apps/mahbanou/iphone-gahs.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;طلوع و غروب خورشید و پنج گاه&quot; (sunrise, sunset and the five gahs): sunrise, noon and sunset in Tehran with the current gah, Havan, and the day's gah times." />
-  <img src="assets/apps/mahbanou/iphone-widgets.webp" width="150" alt="Mahbanou on iPhone in Persian, &quot;ویجت برای صفحهٔ اصلی و صفحهٔ قفل&quot; (widgets for the Home and Lock Screen): the Today, Gah and month widgets in several sizes." />
-</p>
