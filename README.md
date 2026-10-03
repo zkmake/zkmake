@@ -142,6 +142,6 @@ Learn math facts one strategy at a time. Addition, subtraction, multiplication a
 <a href="https://zubin.dev/apps/mahbanou/"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
 **[Mahbanou (ماهبانو)](https://zubin.dev/apps/mahbanou/)**  
 A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's public holidays and the Iranian and Zoroastrian feasts, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
-Coming soon to the App Store · [More](https://zubin.dev/apps/mahbanou/)
+[Download on the App Store](https://apps.apple.com/us/app/mahbanou-persian-calendar/id6815880718) · [More](https://zubin.dev/apps/mahbanou/)
 
 <br clear="all" />
