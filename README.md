@@ -122,26 +122,26 @@ Printable K-5 math worksheets for every Common Core standard, with Maryland, Tex
 &nbsp;
 
 <a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
-**[Treble Trouble](https://zubin.dev/apps/treble-trouble/)**  
+**[Treble Trouble](https://zubin.dev/apps/treble-trouble/)** &nbsp;<a href="https://apps.apple.com/us/app/treble-trouble-read-music/id6815917950"><img src="assets/icons/app-store.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;App Store</a>  
 Learn to read music, one small step at a time. Short lessons on the piano keys, treble and bass staff, and the beat, with a real piano sound and no timer or lives. Then famous tunes and timed games. 16 languages, no ads or tracking. iPhone and iPad, iOS 17 or later.  
-[Download on the App Store](https://apps.apple.com/us/app/treble-trouble-read-music/id6815917950) · [More](https://zubin.dev/apps/treble-trouble/)
+[More](https://zubin.dev/apps/treble-trouble/)
 
 <br clear="all" />
 
 &nbsp;
 
 <a href="https://zubin.dev/apps/mathness/"><img src="assets/apps/mathness/icon.png" width="96" height="96" align="left" alt="Mathness! app icon." /></a>
-**[Mathness!](https://zubin.dev/apps/mathness/)**  
+**[Mathness!](https://zubin.dev/apps/mathness/)** &nbsp;<a href="https://apps.apple.com/us/app/mathness-learn-math-facts/id6815915534"><img src="assets/icons/app-store.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;App Store</a>  
 Learn math facts one strategy at a time. Addition, subtraction, multiplication and division the way good teachers do, with a picture that shows why each strategy works. Short lessons with no timer or lives, then timed drills when the facts stick. 10 languages, no ads or tracking. iPhone and iPad, iOS 17 or later.  
-[Download on the App Store](https://apps.apple.com/us/app/mathness-learn-math-facts/id6815915534) · [More](https://zubin.dev/apps/mathness/)
+[More](https://zubin.dev/apps/mathness/)
 
 <br clear="all" />
 
 &nbsp;
 
 <a href="https://zubin.dev/apps/mahbanou/"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
-**[Mahbanou (ماهبانو)](https://zubin.dev/apps/mahbanou/)**  
+**[Mahbanou (ماهبانو)](https://zubin.dev/apps/mahbanou/)** &nbsp;<a href="https://apps.apple.com/us/app/mahbanou-persian-calendar/id6815880718"><img src="assets/icons/app-store.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;App Store</a>  
 A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's public holidays and the Iranian and Zoroastrian feasts, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
-[Download on the App Store](https://apps.apple.com/us/app/mahbanou-persian-calendar/id6815880718) · [More](https://zubin.dev/apps/mahbanou/)
+[More](https://zubin.dev/apps/mahbanou/)
 
 <br clear="all" />
