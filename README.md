@@ -115,33 +115,39 @@ Apps for the web, iPhone, iPad and Apple Watch. More at [zubin.dev/apps](https:/
 <a href="https://zubin.dev/apps/math-worksheets/"><img src="assets/apps/math-worksheets/icon.png" width="96" height="96" align="left" alt="Mathness! Math Worksheets app icon." /></a>
 **[Mathness! Math Worksheets](https://zubin.dev/apps/math-worksheets/)**  
 Printable K-5 math worksheets for every Common Core standard, with Maryland, Texas, Florida and Virginia standards too, each with an answer key laid out like the sheet. The problems are generated and the answers worked out, so there's always a fresh sheet, and the hand-drawn pages print crisp in black and white. English, free, no sign-up or tracking. Any modern browser.  
-[Open mathness.app](https://mathness.app/) · [More](https://zubin.dev/apps/math-worksheets/)
+[Open mathness.app ↗](https://mathness.app/) · [More](https://zubin.dev/apps/math-worksheets/)
 
 <br clear="all" />
 
 &nbsp;
 
 <a href="https://zubin.dev/apps/treble-trouble/"><img src="assets/apps/treble-trouble/icon.png" width="96" height="96" align="left" alt="Treble Trouble app icon." /></a>
-**[Treble Trouble](https://zubin.dev/apps/treble-trouble/)** &nbsp;<a href="https://apps.apple.com/us/app/treble-trouble-read-music/id6815917950"><img src="assets/icons/app-store.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;App Store</a>  
+**[Treble Trouble](https://zubin.dev/apps/treble-trouble/)**  
 Learn to read music, one small step at a time. Short lessons on the piano keys, treble and bass staff, and the beat, with a real piano sound and no timer or lives. Then famous tunes and timed games. 16 languages, no ads or tracking. iPhone and iPad, iOS 17 or later.  
 [More](https://zubin.dev/apps/treble-trouble/)
+
+<a href="https://apps.apple.com/us/app/treble-trouble-read-music/id6815917950"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/app-store-badge-white.svg" /><img src="assets/apps/app-store-badge-black.svg" height="40" alt="Download Treble Trouble on the App Store" /></picture></a>
 
 <br clear="all" />
 
 &nbsp;
 
 <a href="https://zubin.dev/apps/mathness/"><img src="assets/apps/mathness/icon.png" width="96" height="96" align="left" alt="Mathness! app icon." /></a>
-**[Mathness!](https://zubin.dev/apps/mathness/)** &nbsp;<a href="https://apps.apple.com/us/app/mathness-learn-math-facts/id6815915534"><img src="assets/icons/app-store.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;App Store</a>  
+**[Mathness!](https://zubin.dev/apps/mathness/)**  
 Learn math facts one strategy at a time. Addition, subtraction, multiplication and division the way good teachers do, with a picture that shows why each strategy works. Short lessons with no timer or lives, then timed drills when the facts stick. 10 languages, no ads or tracking. iPhone and iPad, iOS 17 or later.  
 [More](https://zubin.dev/apps/mathness/)
+
+<a href="https://apps.apple.com/us/app/mathness-learn-math-facts/id6815915534"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/app-store-badge-white.svg" /><img src="assets/apps/app-store-badge-black.svg" height="40" alt="Download Mathness! on the App Store" /></picture></a>
 
 <br clear="all" />
 
 &nbsp;
 
 <a href="https://zubin.dev/apps/mahbanou/"><img src="assets/apps/mahbanou/icon.png" width="96" height="96" align="left" alt="Mahbanou app icon." /></a>
-**[Mahbanou (ماهبانو)](https://zubin.dev/apps/mahbanou/)** &nbsp;<a href="https://apps.apple.com/us/app/mahbanou-persian-calendar/id6815880718"><img src="assets/icons/app-store.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;App Store</a>  
+**[Mahbanou (ماهبانو)](https://zubin.dev/apps/mahbanou/)**  
 A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's public holidays and the Iranian and Zoroastrian feasts, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
 [More](https://zubin.dev/apps/mahbanou/)
+
+<a href="https://apps.apple.com/us/app/mahbanou-persian-calendar/id6815880718"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/app-store-badge-white.svg" /><img src="assets/apps/app-store-badge-black.svg" height="40" alt="Download Mahbanou on the App Store" /></picture></a>
 
 <br clear="all" />
