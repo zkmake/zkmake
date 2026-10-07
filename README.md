@@ -49,7 +49,7 @@ Typing game for kids from [edclub](https://www.edclub.com/). Words stand on the 
 
 &nbsp;
 
-<a href="https://virtual-room-edclub.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/taped/virtual-room-dark.png" /><img src="assets/taped/virtual-room.png" width="210" align="left" alt="Organize It! bedroom: an isometric 3D bedroom with clothes, toys, books and a guitar scattered across the floor and bed, a frog plush by the bed, and a 0 of 26 counter." /></picture></a>
+<a href="https://virtual-room-edclub.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/taped/virtual-room-dark.png" /><img src="assets/taped/virtual-room.png" width="210" align="left" alt="Organize It! living room: an isometric 3D living room with toys, books, cushions and a toy train set scattered around a dining table, sofas, a piano and a big TV over a fireplace, and a 0 of 25 counter." /></picture></a>
 <img src="assets/virtual-room-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Organize It!](https://virtual-room-edclub.pages.dev/)**  
 Look around a messy 3D bedroom, living room or classroom, pick up each thing that's out of place and drop it where it belongs. Every object has its own narration, and a hint shows up when you get stuck. I led the 3D team at [edclub](https://www.edclub.com/) that built it. React Three Fiber + Three.js.  
 [Play](https://virtual-room-edclub.pages.dev/)
