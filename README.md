@@ -1,6 +1,6 @@
 ### Hey, I'm Zubin
 
-I build learning apps and 3D games for the web and native apps (iOS and Android), and write about what I learn along the way. React, TypeScript, Three.js, game-dev, and AI-native engineering.
+I build highly interactive apps and 3D games for the web and native platforms (iOS and Android), and write about what I learn along the way. React, TypeScript, Three.js, game-dev, and AI-native engineering.
 
 <p>
   <a href="https://zubin.dev"><img src="assets/icons/web.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;zubin.dev</a>
@@ -12,7 +12,7 @@ I build learning apps and 3D games for the web and native apps (iOS and Android)
 
 ## Open Source
 
-Libraries I publish on npm. More at [zubin.dev/open-source](https://zubin.dev/open-source/).
+More at [zubin.dev/open-source](https://zubin.dev/open-source/).
 
 <a href="https://zkmake.github.io/three-kit/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/taped/three-kit-dark.png" /><img src="assets/taped/three-kit.png" width="210" align="left" alt="three-kit's home page in dark mode: Find and fix what makes a three.js scene slow or broken, beside a cube of 4,096 small cubes measured by the three-meter HUD (FPS, CPU, GPU, one draw call) and an install snippet." /></picture></a>
 <img src="assets/three-kit-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[three-kit](https://zkmake.github.io/three-kit/)**  
@@ -25,7 +25,7 @@ three.js dev tools, each published on npm as `@zkmake/*`: a performance HUD, a l
 
 ## Projects
 
-Educational games and tools you can open in a browser. More at [zubin.dev/projects](https://zubin.dev/projects/).
+More at [zubin.dev/projects](https://zubin.dev/projects/).
 
 <a href="https://connect-it-app.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/taped/connect-it-dark.png" /><img src="assets/taped/connect-it.png" width="210" align="left" alt="connect-it Binary Counter on 7-Seg canvas: a clock ticks a counter that feeds a binary display and a 7-segment digit." /></picture></a>
 <img src="assets/connect-it-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[connect-it](https://connect-it-app.pages.dev/)**  
