@@ -6,6 +6,10 @@ I build highly interactive apps and 3D games for the web and native platforms (i
   <a href="https://zubin.dev"><img src="assets/icons/web.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;zubin.dev</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/zkmake"><img src="assets/icons/github.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/zkmake"><img src="assets/icons/x.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/zubinkhavarian"><img src="assets/icons/linkedin.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;LinkedIn</a>
 </p>
 
 ---
