@@ -92,6 +92,15 @@ WASD rolls a ball over floating tile islands while you collect gems. Rapier runs
 
 <br clear="all" />
 
+&nbsp;
+
+<a href="https://breadboard-lab.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/taped/breadboard-lab-dark.png" /><img src="assets/taped/breadboard-lab.png" width="210" align="left" alt="Breadboard Lab's LED chaser board in the X-ray voltage view: a 9 V battery feeds a 555 timer clocking a 4017 counter, and ten colored LEDs light one after another." /></picture></a>
+<img src="assets/breadboard-lab-favicon.png" width="18" height="18" align="absmiddle" alt="" /> **[Breadboard Lab](https://breadboard-lab.pages.dev/)**  
+Build electronics circuits on a realistic 3D breadboard and watch them run: LEDs light, a 555 blinks, buzzers sound, and parts burn out if you overdo it. A circuit simulator runs underneath, with X-ray views of voltage and current, a multimeter, and a schematic that draws itself as you build. Start from 34 ready-made templates or 37 parts, each explained with facts and links to learn more. React Three Fiber + Three.js.  
+[Open](https://breadboard-lab.pages.dev/)
+
+<br clear="all" />
+
 ---
 
 ## Writing
