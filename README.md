@@ -137,6 +137,6 @@ Learn to read music, one small step at a time. Short lessons on the piano keys, 
 A Persian and Zoroastrian calendar. Solar Hijri, Gregorian and Iran's lunar Hijri side by side, plus the Shahenshahi, Kadmi, Fasli and Iranian (Bastani) calendars with roj, mah and gah times. Iran's public holidays and the Iranian and Zoroastrian feasts, the Nowruz countdown, a converter, widgets and reminders. Every date is checked against primary sources. Persian and English, free, no tracking. iPhone, iPad and Apple Watch.  
 [More](https://zubin.dev/apps/mahbanou/)
 
-<a href="https://apps.apple.com/us/app/mahbanou-persian-calendar/id6815880718"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/app-store-badge-white.svg" /><img src="assets/apps/app-store-badge-black.svg" height="40" alt="Download Mahbanou on the App Store" /></picture></a>
+<a href="https://apps.apple.com/us/app/mahbanou-persian-calendar/id6815880718"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/app-store-badge-white.svg" /><img src="assets/apps/app-store-badge-black.svg" height="40" alt="Download Mahbanou on the App Store" /></picture></a> <a href="https://play.google.com/store/apps/details?id=dev.zubin.mahbanou"><img src="assets/apps/google-play-badge.png" height="40" alt="Get Mahbanou on Google Play" /></a>
 
 <br clear="all" />
